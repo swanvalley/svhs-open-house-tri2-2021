@@ -3,13 +3,11 @@ layout: faculty
 key: Quellet
 information:
   name: Mr. Quellet
-  email: mquelle@swanvalley.k12.mi.us   
-  video: 
+  email: mquelle@swanvalley.k12.mi.us
   courses:
-    - name: Health
-      video: https://www.youtube.com/embed/0Kru0s2rURw
-    - name: Biology
-      video: https://www.youtube.com/embed/28c8hVpXW8Q
-    - name: Athletic Conditioning
-      video: https://www.youtube.com/embed/1EMcGa9k4oI
+    - name: MME
+      video: https://www.youtube.com/embed/oYhkGdTkXx0
+    - name: Biology A
+      video: https://www.youtube.com/embed/IFHx3AUeH6U
+
 ---
