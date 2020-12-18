@@ -6,7 +6,9 @@ information:
   email: tpangborn@swanvalley.k12.mi.us
   courses:
     - name: English 11 A
-      video: https://www.youtube.com/embed/-tCBb9CX0bo
-    - name: Composition and Advanced Composition
-      video: https://www.youtube.com/embed/ExbOJ-cp11k
+      video:
+    - name: English 11 B
+      video:
+    - name: English 9B
+      video:
 ---

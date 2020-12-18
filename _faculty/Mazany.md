@@ -6,7 +6,9 @@ information:
   email: gmazan@swanvalley.k12.mi.us
   courses:
     - name: English 12 A
-      video: https://www.youtube.com/embed/nnx2ufZXrRI
+      video:
     - name: AP Literature and Composition
-      video: https://www.youtube.com/embed/-tllReHz2W8
+      video:
+    - name: English 12 B
+      video:
 ---

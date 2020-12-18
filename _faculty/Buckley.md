@@ -5,6 +5,8 @@ information:
   name: Ms. Buckley
   email: mbuckley@swanvalley.k12.mi.us
   courses:
-    - name: Study Skills and English 9A
-      video: https://www.youtube.com/embed/G8BjJ6UogAk
+    - name: Study Skills
+      video: https://www.youtube.com/embed/eSrlkS0PPMk
+    - name: MME
+      video: https://www.youtube.com/embed/upTHHqGi6ms
 ---

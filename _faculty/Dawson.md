@@ -5,8 +5,9 @@ information:
   name: Mr. Dawson
   email: ddawson@swanvalley.k12.mi.us
   courses:
-    - name: Conditioning
-      video: https://www.youtube.com/embed/7Wb46Tbt0dE
-    - name: Financial Literacy
-      video: https://www.youtube.com/embed/zdGIkFESayU
+    - name: Physical Education
+      video:
+    - name: Financial Literacy A
+      video:
+    - name: Financial Literacy B
 ---
