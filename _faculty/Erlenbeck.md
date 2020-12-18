@@ -8,7 +8,7 @@ information:
     - name: Algebra II B
       video: https://www.youtube.com/embed/OFLLdPw86HQ
     - name: Algebra 2 B
-      video:https://www.youtube.com/embed/OFVrLf790jI
+      video: https://www.youtube.com/embed/OFVrLf790jI
     - name: AP Calculus B
       video: https://www.youtube.com/embed/frvIZvaPhn8
 
