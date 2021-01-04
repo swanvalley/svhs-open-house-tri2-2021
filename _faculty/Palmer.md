@@ -6,8 +6,8 @@ information:
   email: kpalmer@swanvalley.k12.mi.us
   courses:
     - name: Tech App I A
-      video:
+      video: https://www.youtube.com/embed/NMvlsHxejAI
     - name: Tech App I B
-      video:
+      video: https://www.youtube.com/embed/1xoXr4a3_BE
 
 ---
