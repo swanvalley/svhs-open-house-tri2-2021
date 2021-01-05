@@ -8,7 +8,7 @@ information:
     - name: English 12 A
       video: https://www.youtube.com/embed/nnx2ufZXrRI
     - name: AP Literature and Composition
-      video:
+      video: https://www.youtube.com/embed/xGWSx4bvX6A
     - name: English 12 B
-      video:
+      video: https://www.youtube.com/embed/hEIG4D3Lc3s
 ---
