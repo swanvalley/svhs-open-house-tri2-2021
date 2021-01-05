@@ -122,6 +122,14 @@ layout: default
 
               <div class="card-body">
 
+                {% if course.information %}
+                  <div class="row">
+                    <p class="card-text">
+                      {{ course.information | markdownify }}
+                    </p>
+                  </div>
+                {% endif %}
+
                 <div class="row">
                   <div class="embed-responsive embed-responsive-16by9">
                     <iframe class="embed-responsive-item" src="{{ course.video }}" allowfullscreen></iframe>
