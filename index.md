@@ -8,7 +8,7 @@ introduction_video_0:
 introduction_name_1: Mr. Olinger
 introduction_video_1:
 counseling_name_0: Mrs. Luplow
-counseling_video_0: https://www.youtube.com/embed/CsKrjCNCsdQ
+counseling_video_0: https://www.youtube.com/embed/3fU9ORvC-9k
 counseling_name_1: Ms. Hanson
 counseling_video_1:
 counseling_resources:
