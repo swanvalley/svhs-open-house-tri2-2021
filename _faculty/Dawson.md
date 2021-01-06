@@ -8,6 +8,7 @@ information:
     - name: Physical Education
       video:
     - name: Financial Literacy A
-      video:
+      video: https://www.youtube.com/embed/zdGIkFESayU
     - name: Financial Literacy B
+      video:
 ---
