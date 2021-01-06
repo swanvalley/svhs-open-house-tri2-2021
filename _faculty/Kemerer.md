@@ -6,5 +6,5 @@ information:
   email: jkemere@swanvalley.k12.mi.us
   courses:
     - name: CAP
-      video:
+      video: https://www.youtube.com/embed/3uDPMb9N6xE
 ---
