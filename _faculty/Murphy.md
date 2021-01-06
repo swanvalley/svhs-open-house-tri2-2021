@@ -6,7 +6,7 @@ information:
   email: jmurphy@swanvalley.k12.mi.us
   courses:
     - name: Algebra IA
-      video:
+      video: https://www.youtube.com/embed/Agk5AHDGtaE
     - name: MME
-      video:
+      video: https://www.youtube.com/embed/vPC2ZqiK0Fc
 ---
