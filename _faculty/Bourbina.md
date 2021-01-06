@@ -6,9 +6,9 @@ information:
   email: kbourbi@swanvalley.k12.mi.us
   courses:
     - name: AP Computer Science B
-      video:
+      video: https://www.youtube.com/embed/ieB98hEzArM
     - name: CIT B
       video:
     - name: Tech App I B
-      video:
+      video: https://www.youtube.com/embed/xzgNJNT-VJU
 ---
