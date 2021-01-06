@@ -5,7 +5,5 @@ information:
   name: Mrs. Feldotte
   email: pfedlot@swanvalley.k12.mi.us
   courses:
-    - name: Spanish I B
-      video:
-    - name: Spanish IIA
-      video:
+    - name: Spanish I B and Spanish IIA
+      video: https://www.youtube.com/embed/kz6FIvq2394
