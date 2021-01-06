@@ -8,5 +8,5 @@ information:
     - name: Chemistry IB
       video:
     - name: Chemistry A
-      video:
+      video: https://www.youtube.com/embed/CwOvn6-fIkE
 ---
