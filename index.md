@@ -4,7 +4,7 @@ title: Swan Valley High School
 subtitle: 2021 Virtual Open House
 
 introduction_name_0: Mr. Muennix
-introduction_video_0:
+introduction_video_0: https://www.youtube.com/embed/TWh1hS0dbMs
 introduction_name_1: Mr. Olinger
 introduction_video_1:
 counseling_name_0: Mrs. Luplow
