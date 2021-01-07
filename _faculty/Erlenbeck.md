@@ -5,7 +5,7 @@ information:
   name: Mrs. Erlenbeck
   email: herlenb@swanvalley.k12.mi.us
   courses:
-    - name: Algebra II B
+    - name: Algebra II A
       video: https://www.youtube.com/embed/OFLLdPw86HQ
     - name: Algebra 2 B
       video: https://www.youtube.com/embed/OFVrLf790jI
