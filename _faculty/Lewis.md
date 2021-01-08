@@ -8,7 +8,7 @@ information:
     - name: Drawing and Advanced Drawing
       video: https://www.youtube.com/embed/uu8YHb8ul2c
     - name: Pottery
-      video:
+      video: https://www.youtube.com/embed/7nDgxlzYr58
     - name: Painting and Advanced Painting
       video: https://www.youtube.com/embed/JElnDB-kyGA
 ---
