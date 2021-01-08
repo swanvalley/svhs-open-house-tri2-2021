@@ -6,7 +6,7 @@ information:
   email: rluplow@swanvalley.k12.mi.us
   courses:
     - name: Spanish I A
-      video:
+      video: https://www.youtube.com/embed/kGBx1Q0HB-Y
     - name: English 10 A
-      video:
+      video: https://www.youtube.com/embed/zTghxCwIQkU
 ---
