@@ -14,6 +14,6 @@ information:
     - name: Advanced Woods
       video: https://www.youtube.com/embed/7xlfjuCOoX0
     - name: AutoCAD
-      video: https://www.youtube.com/embed/dz6kPz4KkNo
+      video: https://www.youtube.com/embed/_leDvprRYTA
 
 ---
