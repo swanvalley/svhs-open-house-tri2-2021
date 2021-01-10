@@ -5,11 +5,15 @@ information:
   name: Mr. Wachowicz
   email: nwachowicz@swanvalley.k12.mi.us
   courses:
-    - name: Drawing
-      video:
+    - name: Mechanical Drafting
+      video: https://www.youtube.com/embed/1GXkmIL1ybs
     - name: Woods IB
-      video:
+      video: https://www.youtube.com/embed/LwkiapF_BrA
     - name: Woods IIA
-      video:
+      video: https://www.youtube.com/embed/lAOaQpH1IOo
+    - name: Advanced Woods
+      video: https://www.youtube.com/embed/7xlfjuCOoX0
+    - name: AutoCAD
+      video: https://www.youtube.com/embed/dz6kPz4KkNo
 
 ---
