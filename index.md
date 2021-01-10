@@ -6,7 +6,7 @@ subtitle: 2021 Virtual Open House
 introduction_name_0: Mr. Muennix
 introduction_video_0: https://www.youtube.com/embed/bdnzfGpvhAA
 introduction_name_1: Mr. Olinger
-introduction_video_1:
+introduction_video_1: https://www.youtube.com/embed/lYRZo9Gebac
 counseling_name_0: Mrs. Luplow
 counseling_video_0: https://www.youtube.com/embed/3fU9ORvC-9k
 counseling_name_1: Parent Schoology Training from Community Education
